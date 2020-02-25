@@ -68,7 +68,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "80%",
       "format": "none",
       "gridPos": {
@@ -117,7 +117,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "80%",
       "format": "none",
       "gridPos": {
@@ -167,7 +167,7 @@
         "#f9ba8f",
         "#d44a3a"
       ],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "format": "locale",
       "gauge": {
         "maxValue": 100,
@@ -247,7 +247,7 @@
         "#badff4",
         "#d44a3a"
       ],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "format": "locale",
       "gauge": {
         "maxValue": 100,
@@ -321,7 +321,7 @@
     {
       "columns": [],
       "compactRowsEnabled": true,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": false,
@@ -441,7 +441,7 @@
     {
       "columns": [],
       "compactRowsEnabled": true,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": false,

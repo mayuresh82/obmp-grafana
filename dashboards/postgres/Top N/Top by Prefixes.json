@@ -54,7 +54,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -141,7 +141,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -230,7 +230,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -318,7 +318,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fill": 1,
       "gridPos": {
         "h": 7,
@@ -406,7 +406,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fill": 1,
       "gridPos": {
         "h": 7,
@@ -494,7 +494,7 @@
       "bars": true,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -585,7 +585,7 @@
       "bars": true,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fill": 1,
       "gridPos": {
         "h": 7,
@@ -680,7 +680,7 @@
       {
         "allValue": "",
         "current": {},
-        "datasource": "${DS_PSQL}",
+        "datasource": "openbmp_psql",
         "hide": 0,
         "includeAll": true,
         "label": "Filter by Router",

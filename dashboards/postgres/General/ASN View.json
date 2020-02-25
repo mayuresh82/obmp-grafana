@@ -81,7 +81,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fontSize": "80%",
       "format": "none",
@@ -130,7 +130,7 @@
         "#64b0c8",
         "#d44a3a"
       ],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "format": "none",
       "gauge": {
         "maxValue": 100,
@@ -207,7 +207,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -302,7 +302,7 @@
         "#6ed0e0",
         "#d44a3a"
       ],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "format": "none",
       "gauge": {
         "maxValue": 100,
@@ -376,7 +376,7 @@
     },
     {
       "columns": [],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "100%",
       "gridPos": {
         "h": 7,
@@ -431,7 +431,7 @@
     },
     {
       "columns": [],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "100%",
       "gridPos": {
         "h": 9,
@@ -501,7 +501,7 @@
     },
     {
       "columns": [],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "100%",
       "gridPos": {
         "h": 9,
@@ -572,7 +572,7 @@
     {
       "columns": [],
       "compactRowsEnabled": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "description": "",

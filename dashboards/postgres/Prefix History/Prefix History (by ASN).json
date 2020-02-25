@@ -67,7 +67,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -155,7 +155,7 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "decimals": 0,
       "fill": 1,
       "gridPos": {
@@ -242,7 +242,7 @@
     {
       "columns": [],
       "compactRowsEnabled": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": false,

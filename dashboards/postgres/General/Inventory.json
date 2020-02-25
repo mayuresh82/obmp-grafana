@@ -62,7 +62,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "80%",
       "format": "none",
       "gridPos": {
@@ -101,7 +101,7 @@
     {
       "columns": [],
       "compactRowsEnabled": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": false,
@@ -245,7 +245,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "80%",
       "format": "none",
       "gridPos": {
@@ -284,7 +284,7 @@
     {
       "columns": [],
       "compactRowsEnabled": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": false,

@@ -96,7 +96,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "description": "Prefix found in router's RIB.",
       "fontSize": "80%",
       "format": "none",
@@ -140,7 +140,7 @@
         "label": "Others",
         "threshold": 0
       },
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "description": "Prefix found in peer RIB's",
       "fontSize": "80%",
       "format": "none",
@@ -178,7 +178,7 @@
     },
     {
       "columns": [],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "100%",
       "gridPos": {
         "h": 6,
@@ -249,7 +249,7 @@
     },
     {
       "columns": [],
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "fontSize": "100%",
       "gridPos": {
         "h": 4,
@@ -341,7 +341,7 @@
     {
       "columns": [],
       "compactRowsEnabled": false,
-      "datasource": "${DS_PSQL}",
+      "datasource": "openbmp_psql",
       "datatablePagingType": "simple_numbers",
       "datatableTheme": "basic_theme",
       "emptyData": true,
